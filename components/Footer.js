@@ -18,7 +18,7 @@ function Footer() {
                     </Link>
                 </div>
                 
-                <p className='text-center pt-5' style={{fontSize: '.5rem'}}>&copy; 2023 Morning Rituals Soap</p>
+                <p className='text-center pt-5' style={{fontSize: '.5rem'}}>&copy; 2025 Morning Rituals Soap</p>
                 </div>
         </div>
             
