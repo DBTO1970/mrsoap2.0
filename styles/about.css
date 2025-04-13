@@ -1,0 +1,21 @@
+.carousel {
+    border-radius: 5%;
+    -webkit-border-radius: 5%;
+    -moz-border-radius: 5%;
+    -ms-border-radius: 5%;
+    -o-border-radius: 5%;
+    display: flex;
+}
+
+
+.carousel .carousel-status {
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+
+.carousel .slide p.legend {
+    align-self: baseline;
+    color: lightgray;
+    background-color: #801515;
+    margin-bottom: 0;
+}
