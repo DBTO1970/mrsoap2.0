@@ -33,7 +33,7 @@ function About() {
 
                 />
             </div>
-            <p style={{fontSize: '1.25rem'}}><b>Morning Rituals Soap</b> is more than just a bar of soap - it's a daily ritual that invigorates your senses and starts your day on the right note. Our handmade soaps are not only gentle on your skin but also offer a luxurious and indulgent cleansing experience. Infused with coffee oils, our soaps can enhance blood circulation and provide antioxidant protection - leaving your skin feeling rejuvenated and refreshed. Crafted with care, each bar is made with natural ingredients and a touch of love.<br></br></p>
+            <p style={{fontSize: '1.25rem'}}><b>Morning Rituals Soap</b> is more than just a bar of soap - it&#39;s a daily ritual that invigorates your senses and starts your day on the right note. Our handmade soaps are not only gentle on your skin but also offer a luxurious and indulgent cleansing experience. Infused with coffee oils, our soaps can enhance blood circulation and provide antioxidant protection - leaving your skin feeling rejuvenated and refreshed. Crafted with care, each bar is made with natural ingredients and a touch of love.<br></br></p>
                   
             
            </div>
