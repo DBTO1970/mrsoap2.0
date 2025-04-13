@@ -121,8 +121,8 @@ function NavBar() {
                 <div>
                     <Image 
                         src="/soap_banner2.png"
-                        width={2000}
-                        height={800}
+                        width={1920}
+                        height={600}
                         alt="soap in a row"
                         placeholder='blur'
                         blurDataURL='/soap_banner2.png'

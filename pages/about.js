@@ -106,16 +106,15 @@ function About() {
            <p style={{fontSize: '1.2rem'}}>Our coffee soap has been a hit at the <a href="https://www.charlestoncoffeeexchange.com/" target="_blank" rel='noreferrer'>Charleston Coffee Exchange</a> since 2019. We love using their local coffee in every bar.</p>
                <div>
                <a className="navbar-brand" style={{fontFamily: 'Balsamiq Sans'}} href="https://www.charlestoncoffeeexchange.com/" target="_blank" rel='noreferrer'>
-               <Image 
-                src="/cce.img.png"
-                width={580}
-                height={175}
-                alt="Charleton Coffee Exchange"
-                placeholder='blur'
-                blurDataURL='/cce.img.png'
+                    <Image 
+                        src="/cce.img.png"
+                        width={580}
+                        height={175}
+                        alt="Charleton Coffee Exchange"
+                        placeholder='blur'
+                        blurDataURL='/cce.img.png'
 
-            />
-                 {/* <img className="img-responsive mx-auto" style={{height: '', width:'auto', borderRadius: '5px', marginLeft: "auto", marginRight: "auto", cursor:"pointer" }} src="/cce.img.png" alt="Charleston Coffee Exchange Image" /> */}
+                    />
                  </a> 
                 </div>      
             
